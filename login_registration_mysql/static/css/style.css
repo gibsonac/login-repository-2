@@ -1,0 +1,27 @@
+.made-column {
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+    padding: 20px;
+}
+.column-holder {
+    text-align: center;
+
+}
+.col-sm-10 {
+    padding-left: 40px;
+}
+.red {
+    color: red;
+    height: 50px;
+    text-align: center;
+    padding: 20px;
+    list-style-type: none;
+}
+.green {
+    color: green;
+    height: 50px;
+    text-align: center;
+    padding: 20px;
+    list-style-type: none;
+}
